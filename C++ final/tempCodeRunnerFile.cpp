@@ -1,0 +1,1 @@
+else if(a.math_marks+ a.eng_marks< b.math_marks+ b.eng_marks && a.id< b.id ) return true;
